@@ -7,7 +7,7 @@ In the project directory, you can run:
 * backend server with `npm start` in `/mern_backend` project folder.\
 Open [http://localhost:4400](http://localhost:4400) to view it in your browser.
 
-* frontend with `npm start` in `/mern_frontend` project folder. 
+* frontend with `npm start` in `/mern_frontend` project folder.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
