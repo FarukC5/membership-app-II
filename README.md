@@ -16,7 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 **mern_frontend:**
 
 dependencies:
-       
         @babel/core: 7.17.7,
         @babel/preset-react: 7.16.7,
         @hot-loader/react-dom: 17.0.2,
