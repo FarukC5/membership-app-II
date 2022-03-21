@@ -15,25 +15,25 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 **mern_frontend:**\
 dependencies:\
-    @babel/core: 7.17.7,
-    @babel/preset-react: 7.16.7,
-    @hot-loader/react-dom: 17.0.2,
-    @material-ui/core: 4.12.3,
-    @material-ui/icons: 4.11.2,
-    @material-ui/styles: 4.11.4,
-    babel-loader: 8.2.3,
-    react: 17.0.2,
-    react-dom: 17.0.2,
-    react-hot-loader: 4.13.0,
-    react-router: 5.2.0,
-    react-router-dom: 5.2.0
+        @babel/core: 7.17.7,
+        @babel/preset-react: 7.16.7,
+        @hot-loader/react-dom: 17.0.2,
+        @material-ui/core: 4.12.3,
+        @material-ui/icons: 4.11.2,
+        @material-ui/styles: 4.11.4,
+        babel-loader: 8.2.3,
+        react: 17.0.2,
+        react-dom: 17.0.2,
+        react-hot-loader: 4.13.0,
+        react-router: 5.2.0,
+        react-router-dom: 5.2.0
   
   devDependencies:\
-    file-loader: 6.2.0,
-    html-webpack-plugin: 5.5.0,
-    webpack: 5.70.0,
-    webpack-cli: 4.9.2,
-    webpack-dev-server: 4.7.4
+        file-loader: 6.2.0,
+        html-webpack-plugin: 5.5.0,
+        webpack: 5.70.0,
+        webpack-cli: 4.9.2,
+        webpack-dev-server: 4.7.4
   
 ----------------------------------
 
