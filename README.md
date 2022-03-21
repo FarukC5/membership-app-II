@@ -13,10 +13,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 **Packages:**
 
-**mern_frontend:**\
+**mern_frontend:**
 
-dependencies:\
-        @babel/core: 7.17.7,\
+dependencies:
+       
+       @babel/core: 7.17.7,\
         @babel/preset-react: 7.16.7,\
         @hot-loader/react-dom: 17.0.2,\
         @material-ui/core: 4.12.3,\
@@ -27,26 +28,27 @@ dependencies:\
         react-dom: 17.0.2,\
         react-hot-loader: 4.13.0,\
         react-router: 5.2.0,\
-        react-router-dom: 5.2.0\
+        react-router-dom: 5.2.0
   
   devDependencies:\
         file-loader: 6.2.0,\
         html-webpack-plugin: 5.5.0,\
         webpack: 5.70.0,\
         webpack-cli: 4.9.2,\
-        webpack-dev-server: 4.7.4\
+        webpack-dev-server: 4.7.4
   
-----------------------------------\
+----------------------------------
 
   **mern_backend:**\
-  devDependencies:\ 
+ 
+ devDependencies:\ 
     @babel/core: 7.17.7,\
     @babel/preset-env: 7.16.11,\
     babel-loader: 8.2.3,\
     nodemon: 2.0.15,\
     webpack: 5.70.0,\
     webpack-cli: 4.9.2,\
-    webpack-node-externals: 3.0.0\
+    webpack-node-externals: 3.0.0
   
   dependencies:\
     compression: 1.7.4,\
@@ -57,4 +59,4 @@ dependencies:\
     express-jwt: 6.1.1,\
     helmet: 5.0.2,\
     jsonwebtoken: 8.5.1,\
-    mongoose: 6.2.7\
+    mongoose: 6.2.7
